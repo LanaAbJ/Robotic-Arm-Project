@@ -3,6 +3,9 @@ Smartphone-controlled robotic arm using Bluetooth for real-time movement and obj
 
 ## 🎥 Demo Video
 
-[Watch Demo](./robotic%20arm%20demo.MP4)
+<video width="700" controls>
+  <source src="robotic%20arm%20demo.MP4" type="video/mp4">
+</video>
+
 
 
