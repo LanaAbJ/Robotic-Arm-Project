@@ -5,14 +5,14 @@ The goal was to create a simple, low-cost robotic system that allows users to co
 
 The mobile app was designed to send control commands via Bluetooth to an Arduino-based system, which executes movement instructions through servo motors. Custom control logic was implemented to ensure accurate positioning and stable gripper operation.
 
-#Technologies Used
+# Technologies Used
 - Arduino
 - Bluetooth Module (HC-05)
 - Embedded C
 - Android Studio
 - Servo Motors
 
-#What This Project Demonstrates
+# What This Project Demonstrates
 - Real-time wireless control
 - Integration of hardware and software systems
 - Custom control algorithms for precise movement
