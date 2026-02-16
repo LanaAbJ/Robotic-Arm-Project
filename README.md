@@ -1,5 +1,23 @@
 # Robotic-Arm-Project
-Smartphone-controlled robotic arm using Bluetooth for real-time movement and object manipulation, featuring precise control algorithms and integrated hardware–software communication.
+This project demonstrates a smartphone-controlled robotic arm built using Bluetooth communication for real-time object manipulation.
+
+The goal was to create a simple, low-cost robotic system that allows users to control arm movements directly from a mobile application, ensuring smooth motion, precision, and reliable wireless performance.
+
+The mobile app was designed to send control commands via Bluetooth to an Arduino-based system, which executes movement instructions through servo motors. Custom control logic was implemented to ensure accurate positioning and stable gripper operation.
+
+#Technologies Used
+- Arduino
+- Bluetooth Module (HC-05)
+- Embedded C
+- Android Studio
+- Servo Motors
+
+#What This Project Demonstrates
+- Real-time wireless control
+- Integration of hardware and software systems
+- Custom control algorithms for precise movement
+- Stable object gripping and manipulation
+
 
 ## 🎥 Demo Video
 
